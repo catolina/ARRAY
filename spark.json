@@ -1,0 +1,14 @@
+{
+  "name": "ARRAY",
+  "author": "Alexander Brevig <alexanderbrevig@gmail.com>",
+  "version": "1.0.0",
+  "keywords": "Array",
+  "description": "Provide an easy way of managing raw c++ arrays.",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/catolina/ARRAY.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "atmelavr"
+}
